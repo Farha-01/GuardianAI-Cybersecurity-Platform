@@ -146,8 +146,33 @@ npm run dev
 
 # 📸 Screenshots
 
-## Cybersecurity Dashboard
-(Add screenshots here later)
+# 📸 Screenshots
+
+## 🖥️ GuardianAI Dashboard
+
+![Dashboard](screenshots/GUARDIANAI.png)
+
+---
+
+## 🚨 High Risk Threat Detection
+
+![High Risk Analysis](screenshots/HIGH RISK ANALYSIS.png)
+![High Risk Analysis report](screenshots/HIGH RISK ANALYSIS REPORT.png)
+![High Risk Analysis - recommendations](screenshots/HIGH RISK- RECOMMENDATIONS.png)
+
+---
+
+## ✅ Low Risk Detection
+
+![Low Risk Analysis](screenshots/LOW RISK ANALYSIS.png)
+![Low Risk Analysis report](screenshots/LOW RISK ANALYSIS REPORT.png)
+![Low Risk Analysis recommendations](screenshots/LOW RISK - RECOMMENDATIONS.png)
+
+---
+
+## 📊 Scan History System
+
+![Scan History](screenshots/THREAT HISTORY.png)
 
 ---
 
