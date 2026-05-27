@@ -144,7 +144,7 @@ npm run dev
 
 ---
 
-# 📸 Screenshots
+
 
 # 📸 Screenshots
 
@@ -156,23 +156,43 @@ npm run dev
 
 ## 🚨 High Risk Threat Detection
 
-![High Risk Analysis](screenshots/HIGH RISK ANALYSIS.png)
-![High Risk Analysis report](screenshots/HIGH RISK ANALYSIS REPORT.png)
-![High Risk Analysis - recommendations](screenshots/HIGH RISK- RECOMMENDATIONS.png)
+![High Risk Analysis](screenshots/HIGH%20RISK%20ANALYSIS.png)
+
+![High Risk Analysis Report](screenshots/HIGH%20RISK%20ANALYSIS%20REPORT.png)
+
+![High Risk Recommendations](screenshots/HIGH%20RISK-%20RECOMMENDATIONS.png)
 
 ---
 
 ## ✅ Low Risk Detection
 
-![Low Risk Analysis](screenshots/LOW RISK ANALYSIS.png)
-![Low Risk Analysis report](screenshots/LOW RISK ANALYSIS REPORT.png)
-![Low Risk Analysis recommendations](screenshots/LOW RISK - RECOMMENDATIONS.png)
+![Low Risk Analysis](screenshots/LOW%20RISK%20ANALYSIS.png)
+
+![Low Risk Analysis Report](screenshots/LOW%20RISK%20ANALYSIS%20REPORT.png)
+
+![Low Risk Recommendations](screenshots/LOW%20RISK%20-%20RECOMMENDATIONS.png)
 
 ---
 
-## 📊 Scan History System
+## ⚠️ Medium Risk Detection
 
-![Scan History](screenshots/THREAT HISTORY.png)
+![Medium Risk Analysis](screenshots/MEDIUM%20RISK%20ANALYSIS.png)
+
+![Medium Risk Analysis Report](screenshots/MEDIUM%20RISK%20ANALYSIS%20REPORT.png)
+
+![Medium Risk Recommendations](screenshots/MEDIUM%20RISK-%20RECOMMENDATIONS.png)
+
+---
+
+## 📊 Risk Score Meter
+
+![Risk Score](screenshots/RISK%20SCORE.png)
+
+---
+
+## 🗂️ Threat History
+
+![Threat History](screenshots/THREAT%20HISTORY.png)
 
 ---
 
